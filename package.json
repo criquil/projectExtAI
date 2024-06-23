@@ -1,0 +1,14 @@
+{
+  "name": "projectextai",
+  "version": "1.0.0",
+  "description": "beta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "betatest"
+  ],
+  "author": "cristian.rosa",
+  "license": "ISC"
+}
